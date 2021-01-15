@@ -1,7 +1,7 @@
 # AI
-Author: Enio Marcos
-Some source code of artifitial inteligence
-Made for the subject of INAR at Unizambeze High School
-Location Beira, Mozambique
+Author: Enio Marcos \n
+Some source code of artifitial inteligence \n
+Made for the subject of INAR at Unizambeze High School \n
+Location Beira, Mozambique \n
 
 Language: Portugues/English
